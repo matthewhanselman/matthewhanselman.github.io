@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! I am a recent graduate from Durham University Where I obtained a BA(Hons) Sport, Exercise and Physical Activity. As a new sports graduate, I feel there is still a lot to learn and I am looking for a new challenge and to progress within the sports, media, marketing and creative arts.
+Welcome to my page! I am a recent graduate from Durham University Where I obtained a BA(Hons) in Sport, Exercise and Physical Activity. As a new sports graduate, I feel there is still a lot to learn and I am looking for a new challenge and to progress within the sports, media, marketing and creative arts.
 
 I am a very dedicated and enthusiastic worker, who takes pride in anything I do. I have over several years of experience in the coaching and instructor industry. During my time with Royal Hong Kong Yacht Club (RHKYC), Sport 100, and previous coaching organisations, I have developed a range of skills which include dealing directly with customers, making sure that everything is done to the correct standard, managing people on site as well as being able to adapt to any situation put in front of me.
 
