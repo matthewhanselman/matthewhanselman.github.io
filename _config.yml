@@ -83,7 +83,7 @@ author:
   name             : "Matthew Hanselman"
   avatar           : "Profile.jpg"
   bio              : "BA(Hons) Sport, Exercise and Physical Activity Graduate at Durham University."
-  location         : "United Kingdom | Hong Kong "
+  location         : "| United Kingdom | Hong Kong |"
   employer         :
   pubmed           :
   googlescholar    :
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "matthew.hanselman"
+  [facebook](https://www.facebook.com/matthew.hanselman/)         : "matthew.hanselman"
   foursquare       :
   github           : "matthewhanselman"
   google_plus      :
