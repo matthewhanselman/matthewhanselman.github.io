@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthew Hanselman"
+title                    : "Matthew Christian Lam Hanselman"
 title_separator          : "-"
-name                     : &name "Matthew Hanselman"
+name                     : &name "Matthew Christian Lam Hanselman"
 description              : &description "personal description"
 url                      : https://matthewhanselman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "matthewhanselman/matthewhanselman.github.io"
+repository               : "matthewclhanselman/matthewclhanselman.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matthew Hanselman"
+  name             : "Matthew Christian Lam Hanselman"
   avatar           : "Profile.jpg"
-  bio              : "BA(Hons) Sport, Exercise and Physical Activity Graduate at Durham University."
+  bio              : "Graduate from Durham University in BA(Hons) Sport, Exercise and Physical Activity."
   location         : "| United Kingdom | Hong Kong |"
   employer         :
   pubmed           :
