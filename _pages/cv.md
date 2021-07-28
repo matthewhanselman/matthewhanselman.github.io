@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+Durham University, United Kingdom       *September 2018 to June 2021*
+*BA(Hons). Sport, Exercise and Physical Activity*         Graduation Result: 2:1
+* Modules include: Dissertation on international elite sport policies; Sport Policy and Development; Applied Sport Psychology; Advanced Sociology of Sport; Sport and Exercise Physiology; Exercise Programmes for Health and Performance; and Media Sport.
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
