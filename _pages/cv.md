@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-Durham University, United Kingdom       <div align="right">*September 2018 to June 2021*</div>
+Durham University, United Kingdom <i>*September 2018 to June 2021*</i>      
 
-*BA(Hons). Sport, Exercise and Physical Activity* <div align="right">*Graduation Result: 2:1*</div>         
+*BA(Hons). Sport, Exercise and Physical Activity* <i>*Graduation Result: 2:1*</i>     
 * Modules include: Dissertation on international elite sport policies; Sport Policy and Development; Applied Sport Psychology; Advanced Sociology of Sport; Sport and Exercise Physiology; Exercise Programmes for Health and Performance; and Media Sport.
 
 Durham University, International Study Centre, United Kingdom
-*Foundation Humanities, Law and Social Science*<i>*September 2017 to June 2018*</i>           
+
+*Foundation Humanities, Law and Social Science* <i>*September 2017 to June 2018*</i>           
 * Modules include: Extended Research thesis paper; Biology; Human Health and Disease; Statistics; Psychology; and Anthropology.
 
 * M.S. in Jekyll, GitHub University, 2014
