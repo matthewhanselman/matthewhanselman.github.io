@@ -17,7 +17,7 @@ Durham University, United Kingdom       <div align="right">*September 2018 to Ju
 * Modules include: Dissertation on international elite sport policies; Sport Policy and Development; Applied Sport Psychology; Advanced Sociology of Sport; Sport and Exercise Physiology; Exercise Programmes for Health and Performance; and Media Sport.
 
 Durham University, International Study Centre, United Kingdom
-*Foundation Humanities, Law and Social Science*           *September 2017 to June 2018*
+*Foundation Humanities, Law and Social Science*<i>*September 2017 to June 2018*</i>           
 * Modules include: Extended Research thesis paper; Biology; Human Health and Disease; Statistics; Psychology; and Anthropology.
 
 * M.S. in Jekyll, GitHub University, 2014
