@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-Durham University, United Kingdom       *September 2018 to June 2021*
+Durham University, United Kingdom       <div align="right">*September 2018 to June 2021*</div>
 
-*BA(Hons). Sport, Exercise and Physical Activity*         *Graduation Result: 2:1*
+*BA(Hons). Sport, Exercise and Physical Activity* <div align="right">*Graduation Result: 2:1*</div>         
 * Modules include: Dissertation on international elite sport policies; Sport Policy and Development; Applied Sport Psychology; Advanced Sociology of Sport; Sport and Exercise Physiology; Exercise Programmes for Health and Performance; and Media Sport.
 
 Durham University, International Study Centre, United Kingdom
