@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Matthew Hanselman"
   avatar           : "Profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "BA(Hons) Sport, Exercise and Physical Activity Graduate at Durham University"
   location         : "United Kingdom"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -99,17 +99,18 @@ author:
   github           : "matthewhanselman"
   google_plus      :
   keybase          :
+  instagram        : "matthanselman"
   instagram        : "hanselman.film"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "matthewclhanselman"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
