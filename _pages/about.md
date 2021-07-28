@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to my page! I am a recent graduate where I studied BA(Hons) Sport, Exercise and Physical Activity at Durham Univesrity. As a new sports graduate, I feel there is still a lot to learn and I am looking for a new challenge and to progress within the sports, media, marketing and arts.
+
+I am a very dedicated and enthusiastic worker, who takes pride in anything I do. I have over several years of experience in the coaching and instructor industry. During my time with Royal Hong Kong Yacht Club, RHKYC, Sport 100, and previous coaching organisations, I have developed a range of skills which include dealing directly with customers, making sure that everything is done to the correct standard, managing people on site as well as being able to adapt to any situation put in front of me.
 
 Site-wide configuration
 ------
