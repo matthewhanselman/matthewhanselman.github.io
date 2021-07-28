@@ -85,7 +85,7 @@ author:
   bio              : "BA(Hons) Sport, Exercise and Physical Activity Graduate at Durham University"
   location         : "United Kingdom"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -100,7 +100,6 @@ author:
   google_plus      :
   keybase          :
   instagram        : "matthanselman"
-  instagram        : "hanselman.film"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "matthewclhanselman"
